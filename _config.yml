@@ -1,6 +1,6 @@
 title: DBPL 2020
-description: The 18th International Symposium on Database Languages taking place on September 4th in Tokyo, Japan in conjunction with VLDB 2020.
+description: The 18th International Symposium on Database Languages<br>September 4th in Tokyo, Japan<br>In conjunction with VLDB 2020
 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
