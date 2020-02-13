@@ -1,5 +1,10 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+title: DBPL 2020
+description: > 
+The 18th International Symposium on Database Languages
+taking place on September 4th in Tokyo, Japan in conjunction with VLDB 2020.
+
+
+Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
