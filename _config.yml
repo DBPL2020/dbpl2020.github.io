@@ -4,3 +4,6 @@ description: The 18th International Symposium on Database Languages<br>September
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+
+github:
+  is_project_page: false
