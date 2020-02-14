@@ -1,0 +1,5 @@
+- **Paper abstract submission**: May 4, 2020
+- **Paper submission**: May 11, 2020
+- **Notification**: June 28, 2020 (AOE)
+- **Final versions due**: July 26, 2020 (AOE)
+- **Symposium**: September 4, 2020

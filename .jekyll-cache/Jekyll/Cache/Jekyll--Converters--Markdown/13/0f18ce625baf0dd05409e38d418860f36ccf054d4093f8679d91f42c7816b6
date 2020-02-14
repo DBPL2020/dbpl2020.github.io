@@ -1,52 +1,58 @@
----
-layout: default
----
+I"�<h2 id="general-information">General Information</h2>
 
-## General Information
-
-The **DBPL** symposium is aimed at improving understanding,
+<p>The <strong>DBPL</strong> symposium is aimed at improving understanding,
 and facilitating exchange of ideas, between data management
-and programming languages research, broadly construed.
+and programming languages research, broadly construed.</p>
 
-For over 30 years, **DBPL** has established itself as the principal venue
+<p>For over 30 years, <strong>DBPL</strong> has established itself as the principal venue
 for publishing and discussing new ideas and problems
 at the intersection of data management and programming languages.
 Many key contributions relevant to the formal foundations, design,
 implementation, and evaluation of query languages
 (e.g., for object-oriented, nested,
-or semi-structured data) were first announced at **DBPL**.
+or semi-structured data) were first announced at <strong>DBPL</strong>.</p>
 
-**DBPL 2020** solicits theoretical and practical papers in all areas of
-*Data-Centric Programming Languages*.
-Please see the [Call for Papers](call_for_papers.html)
-for more detailed information.
+<p><strong>DBPL 2020</strong> solicits theoretical and practical papers in all areas of
+<em>Data-Centric Programming Languages</em>.
+Please see the <a href="call_for_papers.html">Call for Papers</a>
+for more detailed information.</p>
 
-## Important Dates
+<h2 id="important-dates">Important Dates</h2>
 
-{% include deadlines.md %}
+<ul>
+  <li><strong>Paper abstract submission</strong>: May 4, 2020</li>
+  <li><strong>Paper submission</strong>: May 11, 2020</li>
+  <li><strong>Notification</strong>: June 28, 2020 (AOE)</li>
+  <li><strong>Final versions due</strong>: July 26, 2020 (AOE)</li>
+  <li><strong>Symposium</strong>: September 4, 2020</li>
+</ul>
 
-## Organizers
+<h2 id="organizers">Organizers</h2>
 
-**Workshop Chairs**
+<p><strong>Workshop Chairs</strong></p>
 
-- Yasunori Ishihara, Nanzan University, Japan
-  (contact: firstname.lastname@nanzan-u.ac.jp)
-- Oleg Kiselyov, Tohoku University, Japan
-  (contact: firstname@okmij.org)
+<ul>
+  <li>Yasunori Ishihara, Nanzan University, Japan
+(contact: firstname.lastname@nanzan-u.ac.jp)</li>
+  <li>Oleg Kiselyov, Tohoku University, Japan
+(contact: firstname@okmij.org)</li>
+</ul>
 
-**Steering Committee**
+<p><strong>Steering Committee</strong></p>
 
-- Alexander Alexandrov, VMWare
-- James Cheney, University of Edinburgh, UK
-- Alvin Cheung, University of California, Berkeley, USA
-- Torsten Grust, Universität Tübingen, Germany
-- Thomas Neumann, TU München, Germany
-- Kim Nguyen, LRI
-- Tiark Rompf, Purdue University, USA
+<ul>
+  <li>Alexander Alexandrov, VMWare</li>
+  <li>James Cheney, University of Edinburgh, UK</li>
+  <li>Alvin Cheung, University of California, Berkeley, USA</li>
+  <li>Torsten Grust, Universität Tübingen, Germany</li>
+  <li>Thomas Neumann, TU München, Germany</li>
+  <li>Kim Nguyen, LRI</li>
+  <li>Tiark Rompf, Purdue University, USA</li>
+</ul>
 
-**Program Committee**
+<p><strong>Program Committee</strong></p>
 
-TBA
+<p>TBA</p>
 
 <!--
 - [Peter Alvaro](https://people.ucsc.edu/~palvaro/), UC Santa Cruz, USA
@@ -60,7 +66,7 @@ TBA
 - [Alvin Cheung](https://homes.cs.washington.edu/~akcheung/), University of Washington, USA
 -->
 
-## Sponsors
+<h2 id="sponsors">Sponsors</h2>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
@@ -183,3 +189,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 -->
+:ET
