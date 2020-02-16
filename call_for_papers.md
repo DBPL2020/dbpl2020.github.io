@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Call for Papers
+layout: dbpl2020-default
+title: DBPL2020 Call for Papers
 redirect_from: "/cfp"
 ---
 

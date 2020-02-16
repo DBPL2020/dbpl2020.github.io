@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: dbpl2020-default
+title: DBPL2020 Main Page
 ---
 
 ## General Information
