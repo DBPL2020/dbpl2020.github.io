@@ -63,3 +63,7 @@ Suggested, but not exclusive, topics of interest for submissions include:
 - Schema Mapping and Metadata Management
 - Semantics and Verification of Database Systems
 - Validation, Type-checking
+
+### Author Guidelines
+
+TBD
