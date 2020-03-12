@@ -37,17 +37,25 @@ for more detailed information.
 
 **Steering Committee**
 
-- Alexander Alexandrov, VMWare
-- James Cheney, University of Edinburgh, UK
-- Alvin Cheung, University of California, Berkeley, USA
-- Torsten Grust, Universität Tübingen, Germany
-- Thomas Neumann, TU München, Germany
-- Kim Nguyen, LRI
-- Tiark Rompf, Purdue University, USA
+- Alexander Alexandrov (VMWare, USA)
+- James Cheney (University of Edinburgh, UK)
+- Alvin Cheung (University of California, Berkeley, USA)
+- Torsten Grust (Universität Tübingen, Germany)
+- Thomas Neumann (TU München, Germany)
+- Kim Nguyen (LRI, France)
+- Tiark Rompf (Purdue University, USA)
 
 **Program Committee**
 
-TBA
+- Alexander Alexandrov (VMWare, USA)
+- Aggelos Biboudis (EPFL, Switzerland)
+- George H. L. Fletcher (Eindhoven University of Technology, Netherlands)
+- Torsten Grust (Universität Tübingen, Germany)
+- Hideyuki Kawashima (Keio University, Japan)
+- Hsiang-Shang Ko (Academia Sinica, Taiwan)
+- Sebastian Link (The University of Auckland, Australia)
+- Filip Murlak (University of Warsaw, Poland)
+- (more to follow)
 
 <!--
 - [Peter Alvaro](https://people.ucsc.edu/~palvaro/), UC Santa Cruz, USA
