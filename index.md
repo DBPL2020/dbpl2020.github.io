@@ -55,6 +55,7 @@ for more detailed information.
 - Hsiang-Shang Ko (Academia Sinica, Taiwan)
 - Sebastian Link (The University of Auckland, Australia)
 - Filip Murlak (University of Warsaw, Poland)
+- Sławek Staworko (University of Lille, France)
 - (more to follow)
 
 <!--
