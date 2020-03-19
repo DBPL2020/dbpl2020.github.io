@@ -23,6 +23,13 @@ and solicits submissions from researchers in databases, programming
 languages or any other community interested in the design,
 implementation or foundations of data-centric computation.
 
+**IMPORTANT NOTE**: We are continuously monitoring the COVID-19 situation
+from local authorities and the World Health Organization. The symposium is
+half a year away, and we are confident that COVID-19 emergency will pass
+over and the symposium will be held in September, as planned. And, if
+necessary, alternative solutions, such as postponement, remote
+presentations, etc will be looked into and identified.
+
 ### Scope and Topics
 
 Suggested, but not exclusive, topics of interest for submissions include:

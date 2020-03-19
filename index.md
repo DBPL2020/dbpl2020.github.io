@@ -22,6 +22,13 @@ or semi-structured data) were first announced at **DBPL**.
 Please see the [Call for Papers](call_for_papers.html)
 for more detailed information.
 
+**IMPORTANT NOTE**: We are continuously monitoring the COVID-19 situation
+from local authorities and the World Health Organization. The symposium is
+half a year away, and we are confident that COVID-19 emergency will pass
+over and the symposium will be held in September, as planned. And, if
+necessary, alternative solutions, such as postponement, remote
+presentations, etc will be looked into and identified.
+
 ## Important Dates
 
 {% include deadlines.md %}
@@ -55,8 +62,7 @@ for more detailed information.
 - Hsiang-Shang Ko (Academia Sinica, Taiwan)
 - Sebastian Link (The University of Auckland, Australia)
 - Filip Murlak (University of Warsaw, Poland)
-- Sławek Staworko (University of Lille, France)
-- (more to follow)
+- Sławek Staworko (INRIA, France)
 
 <!--
 - [Peter Alvaro](https://people.ucsc.edu/~palvaro/), UC Santa Cruz, USA
