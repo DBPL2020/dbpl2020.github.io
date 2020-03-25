@@ -54,15 +54,15 @@ presentations, etc will be looked into and identified.
 
 **Program Committee**
 
-- Alexander Alexandrov (VMWare, USA)
+- Alexander Alexandrov (VMWare, Bulgaria)
 - Aggelos Biboudis (EPFL, Switzerland)
 - George H. L. Fletcher (Eindhoven University of Technology, Netherlands)
 - Torsten Grust (Universität Tübingen, Germany)
 - Hideyuki Kawashima (Keio University, Japan)
 - Hsiang-Shang Ko (Academia Sinica, Taiwan)
-- Sebastian Link (The University of Auckland, Australia)
+- Sebastian Link (The University of Auckland, New Zealand)
 - Filip Murlak (University of Warsaw, Poland)
-- Sławek Staworko (INRIA, France)
+- Sławek Staworko (University of Lille, France)
 
 <!--
 - [Peter Alvaro](https://people.ucsc.edu/~palvaro/), UC Santa Cruz, USA
