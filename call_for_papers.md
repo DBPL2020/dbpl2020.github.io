@@ -23,6 +23,10 @@ and solicits submissions from researchers in databases, programming
 languages or any other community interested in the design,
 implementation or foundations of data-centric computation.
 
+The accepted papers of DBPL 2020 will be published in the
+[EPTCS](http://info.eptcs.org/)
+(Electronic Proceedings in Theoretical Computer Science).
+
 **IMPORTANT NOTE**: We are continuously monitoring the COVID-19 situation
 from local authorities and the World Health Organization. The symposium is
 half a year away, and we are confident that COVID-19 emergency will pass
