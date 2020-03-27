@@ -7,6 +7,32 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <style type="text/css">
+nav{
+text-align: left;
+}
+nav ul{
+margin: 0 ;
+padding: 0 ;
+}
+nav ul li{
+list-style: none;
+display: inline-block;
+width: 18%;
+min-width: 120px;
+}
+nav ul li a{
+text-decoration: none;
+color: #FFFFFF;
+}
+nav ul li.current a{
+color: #F33135;
+}
+nav ul li a:hover{
+color: #E7DA66;
+}
+    </style>
+
 {% seo %}
   </head>
 
@@ -21,6 +47,14 @@
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
+
+<nav>
+<ul>
+<li><a href="./index.html">Home</a></li>
+<li><a href="./call_for_papers.html">Call for Papers</a></li>
+</ul>
+</nav>
 
           {% if site.show_downloads %}
             <section id="downloads">
