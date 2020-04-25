@@ -3,6 +3,8 @@ layout: dbpl2020-default
 title: DBPL2020 Main Page
 ---
 
+## DBPL is cancelled for this year, and will hopefully be held in 2021.
+
 ## General Information
 
 The **DBPL** symposium is aimed at improving understanding,

@@ -4,11 +4,13 @@ title: DBPL2020 Call for Papers
 redirect_from: "/cfp"
 ---
 
+## DBPL is cancelled for this year, and will hopefully be held in 2021.
+
 ## Call for Papers
 
-The **18th International Symposium on Database Programming Languages
+~~The **18th International Symposium on Database Programming Languages
 (DBPL 2020)** will be held in conjunction with VLDB 2020
-on September 4th, 2020 in Tokyo, Japan.
+on September 4th, 2020 in Tokyo, Japan.~~
 
 For over 30 years, DBPL has established itself as the principal venue
 for publishing and discussing new ideas at the intersection of broadly
@@ -84,7 +86,7 @@ Submissions must be unpublished and not submitted for publication
 elsewhere.  Work that already appeared in unpublished or informally
 published workshops proceedings may be submitted.
 
-**Submission site**: [https://easychair.org/conferences/?conf=dbpl2020](https://easychair.org/conferences/?conf=dbpl2020)
+~~**Submission site**: [https://easychair.org/conferences/?conf=dbpl2020](https://easychair.org/conferences/?conf=dbpl2020)~~
 
 Review is single-blind, so authors do not need to anonymize their submissions.
 PC submissions are allowed, except for the co-chairs.
